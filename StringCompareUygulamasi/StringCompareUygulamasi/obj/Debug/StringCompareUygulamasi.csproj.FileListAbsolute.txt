@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\parolagiris\StringCompareUygulamasi\StringCompareUygulamasi\bin\Debug\StringCompareUygulamasi.exe.config
+C:\Users\Windows10\Documents\GitHub\parolagiris\StringCompareUygulamasi\StringCompareUygulamasi\bin\Debug\StringCompareUygulamasi.exe
+C:\Users\Windows10\Documents\GitHub\parolagiris\StringCompareUygulamasi\StringCompareUygulamasi\bin\Debug\StringCompareUygulamasi.pdb
+C:\Users\Windows10\Documents\GitHub\parolagiris\StringCompareUygulamasi\StringCompareUygulamasi\obj\Debug\StringCompareUygulamasi.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\parolagiris\StringCompareUygulamasi\StringCompareUygulamasi\obj\Debug\StringCompareUygulamasi.exe
+C:\Users\Windows10\Documents\GitHub\parolagiris\StringCompareUygulamasi\StringCompareUygulamasi\obj\Debug\StringCompareUygulamasi.pdb
